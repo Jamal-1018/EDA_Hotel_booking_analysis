@@ -1,4 +1,5 @@
 Project Summary
+
 This hotel booking dataset contains booking information for city and resort hotel. It consists of 1,19,390 observations with 31 variables. Each observation represents a hotel booking. The dataset comprehens bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were cancelled.
 
 Our analysis can help us understand about the given data and draw some useful insights to make some crucial business decisions regarding the factors affecting the bookings of the hotels.In hotel industry, cancellations and average daily rate(ADR) are two important factos that effects the business. By understanding the factors that are determining the cancellation of a certain booking, the hotels can take necessary precautions to reduce Cancellation rate. By understanding the patterns in ADR against different variables, the hotels can be prepared in advance to generate more revenue and help make a profitable business. Our goal here is to understand such factors in the given data set by performing exploratory data analysis.
